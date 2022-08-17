@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Shinonome New Hugo Site'
+theme = "ananke"
